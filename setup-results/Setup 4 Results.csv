@@ -1,0 +1,214 @@
+Road Name,From Node,To Node,Baseline Flow,Status,Baseline TSTT (Hours),New TSTT (Hours),Change (Minutes),Braess Link?
+Osmena St,villa - 1,villa - 6,439.17,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 439 vol,N/A
+Yulo Dr,villa - 1,villa - 4,0.64,Inactive,3585.28,3608.0,1363.2,No
+Jocson St,villa - 1,villa - 2,659.4,Active,3585.28,3609.86,1474.93,No
+Jocson St (Rev),villa - 2,villa - 1,659.4,Active,3585.28,3609.86,1474.93,No
+Circumferential Rd 1,villa - 2,villa - 3,1506.76,Active,3585.28,3637.62,3140.58,No
+Iloilo Circumferential Rd 1,villa - 2,mandurriao - 8,634.2,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 634 vol,N/A
+Quezon St,villa - 3,villa - 4,218.94,Active,3585.28,3610.17,1493.16,No
+Circumferential Rd 1 (Rev),villa - 3,villa - 2,1506.76,Active,3585.28,3637.62,3140.58,No
+Molo - Arevalo Connect (Rev),villa - 3,Molo - 3,1944.0,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 1944 vol,N/A
+Yulo Dr (Rev),villa - 4,villa - 1,0.64,Inactive,3585.28,3608.0,1363.2,No
+Quezon St (Rev),villa - 4,villa - 3,218.94,Active,3585.28,3610.17,1493.16,No
+Molo Blvd (Rev),villa - 5,Molo - 6,219.59,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 220 vol,N/A
+Osmena St (Rev),villa - 6,villa - 1,439.17,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 439 vol,N/A
+Pakiad Rd (Rev),villa - 6,villa - 7,219.59,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 220 vol,N/A
+Pakiad Rd,villa - 7,villa - 6,219.59,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 220 vol,N/A
+Molo - Arevalo Connect,Molo - 3,villa - 3,1944.0,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 1944 vol,N/A
+Locsin St,Molo - 3,Molo - 4,2664.99,Active,3585.28,4278.34,41583.57,No
+New Carpenter Bridge,Molo - 3,mandurriao - 6,1697.48,Active,3585.28,3739.55,9256.16,No
+Locsin St (Rev),Molo - 4,Molo - 3,1435.59,Active,3585.28,3623.67,2303.66,No
+Locsin St,Molo - 4,Molo - 5,1440.18,Active,3585.28,3666.02,4844.54,No
+M.H Del Pilar,Molo - 4,Molo - 9,1331.94,Active,3585.28,3638.92,3218.09,No
+Locsin St (Rev),Molo - 5,Molo - 4,1479.78,Active,3585.28,3626.2,2455.07,No
+Locsin St,Molo - 5,Molo - 6,1236.86,Active,3585.28,3621.13,2151.14,No
+Timawa St,Molo - 5,Proper - 2,192.93,Active,3585.28,3610.16,1492.84,No
+Locsin St (Rev),Molo - 6,Molo - 5,387.11,Active,3585.28,3613.79,1710.66,No
+Molo Blvd,Molo - 6,villa - 5,219.59,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 220 vol,N/A
+Molo Blvd 2,Molo - 6,Proper - 4,1397.93,Active,3585.28,3624.57,2357.52,No
+Rotunda,Molo - 7,Molo - 8,1734.32,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 289 vol,N/A
+San Marcos St,Molo - 8,Molo - 3,1341.57,Active,3585.28,3619.5,2053.03,No
+M.H Del Pilar,Molo - 8,Molo - 9,392.74,Active,3585.28,3624.46,2350.94,No
+M.H Del Pilar (Rev),Molo - 9,Molo - 4,62.93,Active,3585.28,3609.07,1427.14,No
+M.H Del Pilar,Molo - 9,Molo - 10,1661.75,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 145 vol,N/A
+Molo - Proper Connect,Molo - 10,Proper - 1,1422.81,Active,3585.28,3644.14,3531.64,No
+M.H Del Pilar,Molo - 10,Molo - 7,238.93,Active,3585.28,3613.17,1673.54,No
+Gen Luna - Molo Connect,Proper - 1,Molo - 7,1495.38,Active,3585.28,3657.06,4306.57,No
+Infante St 1,Proper - 1,Proper - 2,1202.98,Active,3585.28,3628.78,2609.98,No
+Gen Luna St 1,Proper - 1,Proper - 7,1048.37,Active,3585.28,3625.82,2432.58,No
+Old Iloilo - Capiz Rd (Rev),Proper - 1,mandurriao - 1,1327.03,Active,3585.28,3729.99,8682.59,No
+Timawa St (Rev),Proper - 2,Molo - 5,1082.28,Active,3585.28,3610.26,1498.83,No
+Infante St 1 (Rev),Proper - 2,Proper - 1,993.95,Active,3585.28,3634.6,2959.42,No
+Infante St 2,Proper - 2,Proper - 3,460.33,Active,3585.28,3620.34,2103.66,No
+Delgado St,Proper - 2,Proper - 10,857.69,Active,3585.28,3617.33,1922.8,No
+Infante St 2 (Rev),Proper - 3,Proper - 2,1010.93,Active,3585.28,3623.44,2289.33,No
+Infante St 3,Proper - 3,Proper - 4,820.94,Active,3585.28,3627.21,2516.07,No
+Molo Blvd 2 (Rev),Proper - 4,Molo - 6,548.17,Active,3585.28,3615.32,1802.19,No
+Baluarte - Oton Blvd,Proper - 4,Proper - 5,1670.69,Active,3585.28,3667.28,4920.04,No
+Rizal St 1,Proper - 5,Proper - 3,1371.54,Active,3585.28,3654.79,4170.87,No
+Rizal St 2,Proper - 5,Proper - 6,1749.51,Active,3585.28,3664.66,4762.61,No
+Rizal St 2 (Rev),Proper - 6,Proper - 5,1450.36,Active,3585.28,3666.26,4858.88,No
+Rizal St 3,Proper - 6,Proper - 14,954.07,Active,3585.28,3633.34,2883.45,No
+Ledesma St,Proper - 6,Proper - 11,971.56,Active,3585.28,3609.45,1450.34,No
+Gen Luna St 1 (Rev),Proper - 7,Proper - 1,1150.32,Active,3585.28,3632.29,2820.78,No
+Gen Luna St 2,Proper - 7,Proper - 8,1662.94,Active,3585.28,3638.0,3163.04,No
+Bonifacio Drive,Proper - 7,lapaz - 10,2237.15,Active,3585.28,3639.93,3278.9,No
+Gen Luna St 2 (Rev),Proper - 8,Proper - 7,2251.83,Active,3585.28,3646.12,3650.37,No
+Gen Luna St 3,Proper - 8,Proper - 9,1346.79,Active,3585.28,3642.76,3448.52,No
+Ruperto Montinola St 1,Proper - 8,Proper - 10,1359.96,Active,3585.28,3637.88,3156.05,No
+Gen Luna St 3 (Rev),Proper - 9,Proper - 8,1776.69,Active,3585.28,3661.81,4591.53,No
+Muelle Loney St 1,Proper - 9,Proper - 12,1338.33,Active,3585.28,3647.7,3744.97,No
+Quirino - Lopez Bridge,Proper - 9,lapuz - 2,1287.97,Active,3585.28,3672.96,5260.69,No
+Ruperto Montinola St 1 (Rev),Proper - 10,Proper - 8,1518.95,Active,3585.28,3648.4,3786.91,No
+Ruperto Montinola St 2,Proper - 10,Proper - 11,2242.63,Active,3585.28,3650.7,3925.35,No
+Delgado St (Rev),Proper - 10,Proper - 2,987.41,Active,3585.28,3627.04,2505.84,No
+Ledesma St (Rev),Proper - 11,Proper - 6,473.18,Active,3585.28,3610.28,1499.84,No
+Ruperto Montinola St 2 (Rev),Proper - 11,Proper - 10,2531.34,Active,3585.28,3668.78,5009.99,No
+Arroyo St (Rev),Proper - 11,Proper - 12,791.96,Active,3585.28,3622.14,2211.74,No
+JM Basa St 1,Proper - 11,Proper - 13,2230.5,Active,3585.28,3744.04,9525.72,No
+Arroyo St,Proper - 12,Proper - 11,719.78,Active,3585.28,3623.22,2276.6,No
+Muelle Loney St 1 (Rev),Proper - 12,Proper - 9,1348.77,Active,3585.28,3652.4,4027.25,No
+Muelle Loney St 2,Proper - 12,Proper - 18,2012.15,Active,3585.28,3790.74,12327.32,No
+JM Basa St 1 (Rev),Proper - 13,Proper - 11,2093.02,Active,3585.28,3746.22,9656.19,No
+JM Basa St 2,Proper - 13,Proper - 14,1534.47,Active,3585.28,3689.68,6264.06,No
+Dela Rama St 1,Proper - 13,Proper - 17,1066.24,Active,3585.28,3639.36,3244.65,No
+Rizal St 3 (Rev),Proper - 14,Proper - 6,1153.29,Active,3585.28,3637.67,3143.19,No
+JM Basa St 2 (Rev),Proper - 14,Proper - 13,1405.69,Active,3585.28,3692.17,6413.66,No
+General Hughes St 1,Proper - 14,Proper - 15,2216.81,Active,3585.28,3868.65,17002.32,No
+General Hughes St 1 (Rev),Proper - 15,Proper - 14,2287.25,Active,3585.28,3872.69,17244.69,No
+Duran St,Proper - 15,Proper - 16,661.9,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 662 vol,N/A
+General Hughes St 2,Proper - 15,Proper - 22,893.01,Active,3585.28,3675.99,5442.54,No
+Duran St (Rev),Proper - 16,Proper - 15,661.9,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 662 vol,N/A
+Dela Rama St 1 (Rev),Proper - 17,Proper - 13,1057.54,Active,3585.28,3645.03,3585.04,No
+Dela Rama St 2,Proper - 17,Proper - 20,661.9,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 662 vol,N/A
+Blumentritt 1,Proper - 17,Proper - 18,1400.1,Active,3585.28,3664.11,4729.78,No
+Blumentritt 2,Proper - 17,Proper - 19,1092.69,Active,3585.28,3614.86,1774.53,No
+Blumentritt 1 (Rev),Proper - 18,Proper - 17,1461.84,Active,3585.28,3663.06,4666.68,No
+Muelle Loney St 2 (Rev),Proper - 18,Proper - 12,1950.41,Active,3585.28,3782.46,11830.54,No
+Muelle Loney St 3,Proper - 18,Proper - 19,0.0,Inactive,3585.28,3607.98,1362.08,No
+Blumentritt 2 (Rev),Proper - 19,Proper - 17,1022.25,Active,3585.28,3616.19,1854.54,No
+Muelle Loney St 3 (Rev),Proper - 19,Proper - 18,0.0,Inactive,3585.28,3607.98,1362.08,No
+Muelle Loney St 4,Proper - 19,Proper - 21,430.79,Active,3585.28,3607.35,1324.05,No
+Dela Rama St 2 (Rev),Proper - 20,Proper - 17,661.9,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 662 vol,N/A
+Muelle Loney St 4 (Rev),Proper - 21,Proper - 19,360.35,Active,3585.28,3608.59,1398.36,No
+Fort San Pedro Dr,Proper - 21,Proper - 22,301.55,Active,3585.28,3614.88,1775.68,No
+General Hughes St 2 (Rev),Proper - 22,Proper - 15,963.45,Active,3585.28,3676.57,5477.56,No
+Fort San Pedro Dr (Rev),Proper - 22,Proper - 21,231.11,Active,3585.28,3614.16,1733.04,No
+Old Iloilo - Capiz Rd,mandurriao - 1,Proper - 1,1506.68,Active,3585.28,3713.98,7722.27,No
+Mandurriao - Jaro Rd,mandurriao - 1,mandurriao - 2,943.32,Active,3585.28,3903.83,19112.82,No
+Old Iloilo-Capiz Rd - Old Lopez Jaena St (Rev),mandurriao - 1,jaro - 17,319.44,Active,3585.28,3637.98,3161.98,No
+El 98 St (Rev),mandurriao - 1,jaro - 7,1064.75,Active,3585.28,3683.46,5890.74,No
+Mandurriao - Jaro Rd (Rev),mandurriao - 2,mandurriao - 1,1055.49,Active,3585.28,3932.79,20850.28,No
+Mandurriao - Jaro Rd - Mandurriao - Sn Miguel Rd,mandurriao - 2,mandurriao - 3,1867.62,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 1409 vol,N/A
+Mandurriao - Sn Miguel Rd,mandurriao - 3,mandurriao - 12,1327.52,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 1328 vol,N/A
+Mandurriao - Sn Miguel Rd - R Mapa St,mandurriao - 3,mandurriao - 4,1867.62,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 1409 vol,N/A
+Pakiad Rd,mandurriao - 4,mandurriao - 5,331.88,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 332 vol,N/A
+R Mapa St - Mandurriao - Jaro Rd,mandurriao - 4,mandurriao - 2,1979.79,Active,3585.28,4658.06,64366.59,No
+R Mapa St,mandurriao - 4,mandurriao - 6,714.35,Active,3585.28,3642.47,3431.21,No
+Pakiad Rd (Rev),mandurriao - 5,mandurriao - 4,331.88,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 332 vol,N/A
+New Carpenter Bridge (Rev),mandurriao - 6,Molo - 3,1585.31,Active,3585.28,3709.87,7475.62,No
+R Mapa St (Rev),mandurriao - 6,mandurriao - 4,826.52,Active,3585.28,3660.25,4498.2,No
+R Mapa St - Extension,mandurriao - 6,mandurriao - 7,785.27,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 785 vol,N/A
+R Mapa St - Extension (Rev),mandurriao - 7,mandurriao - 6,785.27,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 785 vol,N/A
+Iloilo Circumferential Rd 1 (Rev),mandurriao - 8,villa - 2,634.2,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 634 vol,N/A
+Mandurriao-Sn Miguel Rd - Iloilo Circumferential Rd 1,mandurriao - 9,mandurriao - 12,331.88,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 332 vol,N/A
+Iloilo Circumferential Rd 1 - Mandurriao-Sn Miguel Rd (1),mandurriao - 10,mandurriao - 12,331.88,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 332 vol,N/A
+Iloilo Circumferential Rd 1 - Mandurriao-Sn Miguel Rd (2),mandurriao - 11,mandurriao - 12,331.88,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 332 vol,N/A
+Mandurriao - Sn Miguel Rd (Rev),mandurriao - 12,mandurriao - 3,1327.52,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 1328 vol,N/A
+Mandurriao-Sn Miguel Rd - Iloilo Circumferential Rd 1 (Rev),mandurriao - 12,mandurriao - 9,331.88,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 332 vol,N/A
+Iloilo Circumferential Rd 1 - Mandurriao-Sn Miguel Rd (1) (Rev),mandurriao - 12,mandurriao - 10,331.88,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 332 vol,N/A
+Iloilo Circumferential Rd 1 - Mandurriao-Sn Miguel Rd (2) (Rev),mandurriao - 12,mandurriao - 11,331.88,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 332 vol,N/A
+E Lopez St,jaro - 1,jaro - 4,657.63,Active,3585.28,3617.3,1920.95,No
+Luna St (Rev),jaro - 1,lapaz - 3,446.74,Active,3585.28,3617.17,1913.44,No
+Commission Civil St,jaro - 2,jaro - 5,371.47,Active,3585.28,3618.85,2014.32,No
+Burgos St (Rev),jaro - 2,lapaz - 7,516.27,Active,3585.28,3619.29,2040.42,No
+Jereos St,jaro - 3,jaro - 25,125.92,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 126 vol,N/A
+Jereos St (Rev),jaro - 3,lapaz - 6,271.52,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 272 vol,N/A
+E Lopez St (Rev),jaro - 4,jaro - 1,475.2,Active,3585.28,3617.65,1941.98,No
+E Lopez St - Plaza Rizal St - Commission Civil St,jaro - 4,jaro - 5,1911.58,Active,3585.28,3714.09,7728.3,No
+Commission Civil St (Rev),jaro - 5,jaro - 2,546.75,Active,3585.28,3622.76,2248.64,No
+Commission Civil St - Plaza Rizal St - Iloilo-Capiz Rd,jaro - 5,jaro - 6,1736.3,Active,3585.28,3745.09,9588.4,No
+Plaza Rizal St - Balabago Rd,jaro - 6,jaro - 9,1448.97,Active,3585.28,3828.68,14604.22,No
+Iloilo-Capiz Rd - Plaza Rizal St - El 98 St,jaro - 6,jaro - 7,1822.55,Active,3585.28,3746.75,9688.39,No
+El 98 St - Plaza Rizal St - E Lopez St,jaro - 7,jaro - 4,1729.15,Active,3585.28,3732.85,8854.34,No
+El 98 St,jaro - 7,mandurriao - 1,1158.15,Active,3585.28,3682.17,5813.16,No
+Lopez Jaena St - Plaza Rizal St,jaro - 8,jaro - 6,1535.22,Active,3585.28,3715.97,7841.33,No
+Lopez Jaena St - Old Lopez Jaena St,jaro - 8,jaro - 18,184.24,Active,3585.28,3612.15,1612.13,No
+Iloilo Capiz Rd - Balabago Rd (Rev),jaro - 9,jaro - 14,2054.55,Active,3585.28,3816.01,13844.03,No
+Balabago Rd,jaro - 9,jaro - 10,840.46,Active,3585.28,3689.92,6278.57,No
+Iloilo-Capiz Rd - Lopez Jaena St,jaro - 9,jaro - 8,1509.3,Active,3585.28,3821.55,14176.25,No
+Buhang Flyover - Balabago Rd (Rev),jaro - 10,jaro - 12,1223.51,Active,3585.28,3889.33,18243.03,No
+Iloilo-Capiz Rd - Iloilo Circumferential Rd 1 - Monfort Blvd,jaro - 10,jaro - 11,1777.91,Active,3585.28,3925.79,20430.35,No
+Balabago Rd (Rev),jaro - 10,jaro - 9,902.86,Active,3585.28,3699.3,6841.22,No
+Monfort Blvd - Leganes,jaro - 11,jaro - 20,384.27,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 384 vol,N/A
+Lapaz - Monfort Blvd (Rev),jaro - 11,jaro - 19,1143.93,Active,3585.28,3742.13,9410.87,No
+Iloilo-Capiz Rd - Iloilo Circumferential Rd 1 - Monfort Blvd (Rev),jaro - 11,jaro - 10,1838.25,Active,3585.28,4292.22,42416.34,No
+Iloilo-Capiz Rd - Buhang Flyover (Rev),jaro - 12,jaro - 14,788.43,Active,3585.28,3658.71,4405.55,No
+Buhang Flyover - Balabago Rd,jaro - 12,jaro - 10,1225.57,Active,3585.28,3836.34,15063.46,No
+Buhang Flyover,jaro - 12,jaro - 13,737.11,Active,3585.28,3626.64,2481.34,No
+Iloilo Radial By-Pass Rd 4 - Buhang Flyover (Rev),jaro - 13,jaro - 15,1585.54,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 1586 vol,N/A
+Buhang Flyover - Iloilo-Capiz Rd,jaro - 13,jaro - 14,1448.94,Active,3585.28,3718.02,7964.21,No
+Buhang Flyover (Rev),jaro - 13,jaro - 12,737.24,Active,3585.28,3626.72,2486.42,No
+Buhang Flyover - Iloilo-Capiz Rd (Rev),jaro - 14,jaro - 13,1449.07,Active,3585.28,3713.81,7711.71,No
+Iloilo-Capiz Rd - Buhang Flyover,jaro - 14,jaro - 12,790.36,Active,3585.28,3655.24,4197.35,No
+Iloilo-Capiz Rd - Iloilo Circumferential Rd 1,jaro - 14,jaro - 21,384.27,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 384 vol,N/A
+Iloilo Capiz Rd - Balabago Rd,jaro - 14,jaro - 9,2052.48,Active,3585.28,3827.53,14534.95,No
+Iloilo Circumferential - Iloilo Radial By-Pass Rd 4,jaro - 15,jaro - 22,384.27,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 384 vol,N/A
+Iloilo Radial By-Pass Rd 4 - Buhang Flyover,jaro - 15,jaro - 13,1585.54,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 1586 vol,N/A
+Iloilo Radial By-Pass Rd 4,jaro - 15,jaro - 23,699.37,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 699 vol,N/A
+Old Iloilo-Capiz Rd - Old Lopez Jaena St (Rev),jaro - 16,jaro - 17,251.84,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 252 vol,N/A
+Old Iloilo-Capiz Rd - Pavia,jaro - 16,jaro - 24,125.92,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 126 vol,N/A
+Old Iloilo-Capiz Rd - Old Lopez Jaena St,jaro - 17,mandurriao - 1,293.53,Active,3585.28,3615.82,1832.11,No
+Old Iloilo-Capiz Rd - Old Lopez Jaena St,jaro - 17,jaro - 16,251.84,Active,3585.28,3608.97,1421.34,No
+Old Lopez Jaena St - Old Iloilo-Capiz Rd (Rev),jaro - 17,jaro - 18,218.04,Active,3585.28,3616.49,1872.71,No
+Lopez Jaena St - Old Lopez Jaena St (Rev),jaro - 18,jaro - 8,210.15,Active,3585.28,3611.35,1564.42,No
+Old Lopez Jaena St - Old Iloilo-Capiz Rd,jaro - 18,jaro - 17,192.13,Active,3585.28,3608.81,1411.92,No
+Old Lopez Jaena St - Old Iloilo-Capiz Rd,jaro - 18,jaro - 16,0.0,Inactive,3585.28,3607.98,1362.08,No
+Lapaz - Monfort Blvd,jaro - 19,jaro - 11,1204.26,Active,3585.28,3888.06,18166.76,No
+Monfort Blvd (Rev),jaro - 19,lapaz - 9,1352.26,Active,3585.28,3738.07,9167.33,No
+Monfort Blvd - Leganes (Rev),jaro - 20,jaro - 11,384.27,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 384 vol,N/A
+Iloilo-Capiz Rd - Iloilo Circumferential Rd 1 (Rev),jaro - 21,jaro - 14,384.27,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 384 vol,N/A
+Iloilo Circumferential - Iloilo Radial By-Pass Rd 4 (Rev),jaro - 22,jaro - 15,384.27,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 384 vol,N/A
+Iloilo Radial By-Pass Rd 4 (Rev),jaro - 23,jaro - 15,699.37,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 699 vol,N/A
+Old Iloilo-Capiz Rd - Pavia (Rev),jaro - 24,jaro - 16,125.92,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 126 vol,N/A
+Jereos St (Rev),jaro - 25,jaro - 3,125.92,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 126 vol,N/A
+Luna St - Huervana St (Rev),lapaz - 1,lapaz - 3,446.16,Active,3585.28,3608.31,1382.06,No
+Luna St - Esplanade 5,lapaz - 1,lapaz - 10,1677.25,Active,3585.28,3630.56,2716.96,No
+Huervana St - Rizal St,lapaz - 1,lapaz - 2,1792.16,Active,3585.28,3625.35,2403.96,No
+Rizal St - Luna St,lapaz - 2,lapaz - 3,1487.64,Active,3585.28,3625.31,2401.95,No
+Huervana St - Burgos St,lapaz - 2,lapaz - 4,2007.0,Active,3585.28,3688.1,6168.96,No
+Rizal St - Huervana St,lapaz - 2,lapuz - 2,891.69,Active,3585.28,3613.93,1718.82,No
+Luna St,lapaz - 3,jaro - 1,629.16,Active,3585.28,3617.46,1930.54,No
+Luna St - Huervana St,lapaz - 3,lapaz - 1,1751.38,Active,3585.28,3641.78,3389.79,No
+Huervana St - Burgos St (Rev),lapaz - 4,lapaz - 2,2120.54,Active,3585.28,3674.01,5323.48,No
+Huervana St - Jereos St,lapaz - 4,lapaz - 5,2156.58,Active,3585.28,3730.17,8693.28,No
+Divinagracia St,lapaz - 4,lapuz - 1,298.23,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 298 vol,N/A
+Jereos St - Huervana Ext,lapaz - 5,lapaz - 6,2094.85,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 417 vol,N/A
+Lopez Jaena St,lapaz - 5,lapaz - 8,1551.38,Active,3585.28,3670.19,5094.77,No
+Huervana Ext,lapaz - 6,lapaz - 7,2094.85,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 417 vol,N/A
+Jereos St,lapaz - 6,jaro - 3,271.52,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 272 vol,N/A
+Burgos St - Huervana St,lapaz - 7,lapaz - 4,2270.13,Active,3585.28,3669.18,5034.05,No
+Burgos St,lapaz - 7,jaro - 2,340.99,Active,3585.28,3616.44,1869.41,No
+Lopez Jaena St (Rev),lapaz - 8,lapaz - 5,1489.65,Active,3585.28,3640.87,3335.44,No
+Baldoza St,lapaz - 8,lapaz - 9,1435.64,Active,3585.28,3662.47,4631.35,No
+Baldoza St (Rev),lapaz - 9,lapaz - 8,1373.91,Active,3585.28,3634.54,2955.5,No
+Coastal Rd,lapaz - 9,lapuz - 7,128.33,Active,3585.28,3617.17,1913.43,No
+Monfort Blvd,lapaz - 9,jaro - 19,1412.59,Active,3585.28,3974.82,23372.5,No
+Bonifacio Drive (Rev),lapaz - 10,Proper - 7,1750.2,Active,3585.28,3633.22,2876.12,No
+Luna St - Esplanade 5 (Rev),lapaz - 10,lapaz - 1,2164.19,Active,3585.28,3636.97,3101.22,No
+Divinagracia St (Rev),lapuz - 1,lapaz - 4,298.23,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 298 vol,N/A
+Railroad St,lapuz - 1,lapuz - 3,149.12,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 149 vol,N/A
+Quirino - Lopez Bridge (Rev),lapuz - 2,Proper - 9,1707.43,Active,3585.28,3686.0,6042.92,No
+Rizal St - Huervana St (Rev),lapuz - 2,lapaz - 2,473.62,Active,3585.28,3616.79,1890.61,No
+Rizal St - Ferry Terminal Access Rd,lapuz - 2,lapuz - 4,877.97,Active,3585.28,3693.89,6516.59,No
+Railroad St (Rev),lapuz - 3,lapuz - 1,149.12,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 149 vol,N/A
+Rizal St - Ferry Terminal Access Rd (Rev),lapuz - 4,lapuz - 2,879.36,Active,3585.28,3694.57,6557.28,No
+New Iloilo Ferry Terminal Access Rd,lapuz - 4,lapuz - 5,149.12,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 149 vol,N/A
+Rizal St - Iloilo Airport Direct Rd,lapuz - 4,lapuz - 6,646.49,Active,3585.28,3654.42,4148.3,No
+New Iloilo Ferry Terminal Access Rd (Rev),lapuz - 5,lapuz - 4,149.12,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 149 vol,N/A
+Rizal St - Iloilo Airport Direct Rd (Rev),lapuz - 6,lapuz - 4,647.89,Active,3585.28,3659.71,4465.61,No
+Lapuz Mansaya Loboc Rd,lapuz - 6,lapuz - 7,283.07,Active,3585.28,3620.71,2125.66,No
+Iloilo Airport Direct Rd,lapuz - 6,lapuz - 8,238.33,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 238 vol,N/A
+Coastal Rd (Rev),lapuz - 7,lapaz - 9,126.94,Active,3585.28,3615.96,1841.07,No
+Lapuz Mansaya Loboc Rd (Rev),lapuz - 7,lapuz - 6,284.46,Active,3585.28,3621.21,2155.85,No
+Iloilo Airport Direct Rd (Rev),lapuz - 8,lapuz - 6,238.33,CRITICAL CUT-EDGE,3585.28,DISCONNECTED,Dropped 238 vol,N/A
